@@ -1,0 +1,6 @@
+1. Cmd açýlýr.
+2. node main.js yazýlarak program çalýþtýrýlýr.
+3. Main.js dosyasý “odev1_data.xlsx” dosyasýndaki bilgileri okur ve bunun üzerinde mean ve varyans hesaplamasý yapar.
+4. Çýktý dosyasý olarak “mean_varyance_calculation.xlsx” dosyasý oluþturulur.
+
+
